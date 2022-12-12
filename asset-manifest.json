@@ -1,18 +1,16 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.61e13af6.css",
-    "main.js": "/my-portfolio/static/js/main.3b5b0877.js",
+    "main.css": "/my-portfolio/static/css/main.91f8e243.css",
+    "main.js": "/my-portfolio/static/js/main.710944d3.js",
     "static/js/787.128fc6e9.chunk.js": "/my-portfolio/static/js/787.128fc6e9.chunk.js",
-    "static/media/OmarZribiCertif.pdf": "/my-portfolio/static/media/OmarZribiCertif.0f4a58d53d4a2c503d40.pdf",
-    "static/media/CvOmarZribi.pdf": "/my-portfolio/static/media/CvOmarZribi.d6ec036587c3eff5d3b9.pdf",
     "static/media/my-photo.jpg": "/my-portfolio/static/media/my-photo.bbcbdddcb71156f5b5d1.jpg",
     "index.html": "/my-portfolio/index.html",
-    "main.61e13af6.css.map": "/my-portfolio/static/css/main.61e13af6.css.map",
-    "main.3b5b0877.js.map": "/my-portfolio/static/js/main.3b5b0877.js.map",
+    "main.91f8e243.css.map": "/my-portfolio/static/css/main.91f8e243.css.map",
+    "main.710944d3.js.map": "/my-portfolio/static/js/main.710944d3.js.map",
     "787.128fc6e9.chunk.js.map": "/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.61e13af6.css",
-    "static/js/main.3b5b0877.js"
+    "static/css/main.91f8e243.css",
+    "static/js/main.710944d3.js"
   ]
 }
